@@ -1,3 +1,4 @@
-# My Awesome Book
+# Claim Cam StyleGuide Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a UI styleguide for dealer claim cam tool.
+
